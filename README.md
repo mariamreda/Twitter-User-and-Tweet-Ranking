@@ -1,4 +1,4 @@
-# Twitter Users and Tweets Ranking System
+# Twitter Users and Tweets Ranking
 
 This social network analysis project aims to rank Twitter users based on the importance of their tweets using various ranking algorithms. It utilizes bipartite graph modeling for tweets and employs the HITS (Hyperlink-Induced Topic Search) algorithm to determine tweet authority values. These authority values are then reflected onto users as initial user importance. Furthermore, the PageRank algorithm is employed to rank users based on their importance within the Twitter network.
 
